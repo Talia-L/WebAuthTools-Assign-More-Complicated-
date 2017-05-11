@@ -1,0 +1,9 @@
+name = "Bob Newhard"
+pay = 25.25
+hours = 45
+total = pay * hours
+
+print "Name: %s" % name
+print "Pay Rate: %s" % pay
+print "Hours Worked: %s" % hours
+print "Total Pay: %s" % total
